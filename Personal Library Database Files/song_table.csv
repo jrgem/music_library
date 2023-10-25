@@ -1,0 +1,693 @@
+"album_id","song_id","title","length_sec","rating","plays","artist_id"
+1,1,"Real Life",223,5,12,1
+1,2,"Losers (feat. Labrinth)",282,5,75,1
+1,3,"Often",249,5,72,1
+1,4,"The Hills",242,5,114,1
+1,5,"Acquainted",349,5,18,1
+1,6,"Cant Feel My Face",214,5,149,1
+1,7,"Shameless",254,5,10,1
+1,8,"Earned It",278,5,86,1
+1,9,"In The Night",236,5,57,1
+1,10,"As You Are",341,5,16,1
+1,11,"Prisoner (feat. Lana Del Rey)",275,5,4,1
+1,12,"Angel",377,5,3,1
+2,13,"Starboy (feat. Daft Punk)",230,5,412,1
+2,14,"Party Monster",249,5,21,1
+2,15,"False Alarm",220,5,154,1
+2,16,"Reminder",219,5,15,1
+2,17,"Rockin",233,5,72,1
+2,18,"Secrets",266,5,48,1
+2,19,"True Colors",206,5,13,1
+2,20,"Stargirl Interlude (feat. Lana Del Rey)",112,5,12,1
+2,21,"Sidewalks (feat. Kendrick Lamar)",231,5,9,1
+2,22,"Six Feet Under",238,5,125,1
+2,23,"Love To Lay",223,5,136,1
+2,24,"A Lonely Night",220,5,67,1
+2,25,"Attention",198,5,12,1
+2,26,"Ordinary Life",222,5,64,1
+2,27,"Nothing Without You",199,5,34,1
+2,28,"All I Know (feat. Future)",321,5,25,1
+2,29,"Die For You",260,5,57,1
+2,30,"I Feel It Coming (feat. Daft Punk)",269,5,201,1
+3,31,"Call Out My Name",208,5,6,1
+3,32,"Try Me",201,5,4,1
+3,33,"Wasted Times",200,5,4,1
+3,34,"I Was Never There",241,5,43,1
+3,35,"Hurt You",210,5,6,1
+3,36,"Privilege",151,5,7,1
+4,37,"Alone Again",241,5,49,1
+4,38,"Too Late",240,5,77,1
+4,39,"Hardest To Love",211,5,102,1
+4,40,"Scared To Live",191,5,53,1
+4,41,"Escape From LA",351,5,7,1
+4,42,"Heartless",198,5,38,1
+4,43,"Faith",283,5,73,1
+4,44,"Blinding Lights",200,5,600,1
+4,45,"In Your Eyes",238,5,306,1
+4,46,"Save Your Tears",216,154,7,1
+4,47,"After Hours",362,5,53,1
+4,48,"Nothing Compares",222,5,84,1
+4,49,"Missed You",145,5,44,1
+4,50,"Final Lullaby",186,5,57,1
+5,51,"King Of The Fall",302,5,51,1
+6,52,"Dawn FM",96,5,30,1
+6,53,"Gasoline",212,5,43,1
+6,54,"How Do I Make You Love Me?",214,5,90,1
+6,55,"Take My Breath",339,5,54,1
+6,56,"Sacrifice",189,5,61,1
+6,57,"A Tale By Quincy",96,5,31,1
+6,58,"Out of Time",214,5,157,1
+6,59,"Here We Go… Again (feat. Tyler, The Creator)",210,5,38,1
+6,60,"Best Friends",164,5,75,1
+6,61,"Is There Someone Else?",199,5,124,1
+6,62,"Starry Eyes",148,5,33,1
+6,63,"Every Angel is Terrifying",167,5,27,1
+6,64,"Dont Break My Heart",205,5,79,1
+6,65,"I Heard Youre Married (feat. Lil Wayne)",264,5,27,1
+6,66,"Less Than Zero",212,5,82,1
+6,67,"Phantom Regret by Jim",180,5,27,1
+7,68,"Popular (with Playboi Carti & Madonna)",215,5,24,1
+8,69,"A Lesser Man",298,4,23,1
+9,70,"Loser",238,5,51,2
+10,71,"The Golden Age",277,5,20,2
+10,72,"Paper Tiger",276,5,35,2
+10,73,"Guess Im Doing Fine",289,5,21,2
+10,74,"Lonesome Tears",338,5,45,2
+10,75,"Lost Cause",227,5,49,2
+10,76,"End of the Day",303,5,20,2
+10,77,"Its All In Your Mind",186,5,39,2
+10,78,"Round the Bend",315,5,33,2
+10,79,"Already Dead",179,5,29,2
+10,80,"Sunday Sun",288,5,47,2
+10,81,"Little One",267,5,41,2
+10,82,"Side of the Road",203,5,28,2
+10,83,"Ship in a Bottle",201,5,55,2
+11,84,"Modern Guilt",192,5,24,2
+11,85,"Walls",140,5,12,2
+11,86,"Replica",205,5,7,2
+12,87,"Cycle",40,5,15,2
+12,88,"Morning",320,5,12,2
+12,89,"Heart Is a Drum",271,5,30,2
+12,90,"Say Goodbye",209,5,12,2
+12,91,"Blue Moon",242,5,36,2
+12,92,"Unforgiven",274,5,8,2
+12,93,"Wave",320,5,12,2
+12,94,"Dont Let Go",189,5,12,2
+12,95,"Blackbird Chain",267,5,35,2
+12,96,"Phase",67,5,6,2
+12,97,"Turn Away",186,5,8,2
+12,98,"Country Down",241,5,6,2
+12,99,"Walking Light",301,5,12,2
+13,100,"Colors",262,5,71,2
+13,101,"Seventh Heaven",301,5,96,2
+13,102,"Im So Free",248,5,61,2
+13,103,"Dear Life",224,5,59,2
+13,104,"No Distraction",272,5,56,2
+13,105,"Up All Night",190,5,52,2
+13,106,"Square One",176,5,45,2
+13,107,"Fix Me",193,5,58,2
+13,108,"Dreams",314,5,187,2
+14,109,"Hyperlife",97,5,58,2
+14,110,"Uneventful Days",197,5,165,2
+14,111,"Saw Lightning",241,5,35,2
+14,112,"Die Waiting",245,5,79,2
+14,113,"Chemical",259,5,100,2
+14,114,"See Through",219,5,46,2
+14,115,"Hyperspace",165,5,61,2
+14,116,"Stratosphere",237,5,84,2
+14,117,"Dark Places",226,5,69,2
+14,118,"Star",171,5,78,2
+14,119,"Everlasting Nothing",300,5,73,2
+15,120,"Everybodys Gotta Learn Sometime",354,5,17,2
+16,121,"All Falls Down",224,5,78,3
+16,122,"Jesus Walks",194,5,56,3
+16,123,"Slow Jamz",316,5,31,3
+17,124,"Heard Em Say",204,5,24,3
+17,125,"Touch The Sky",237,5,132,3
+17,126,"Gold Digger",208,5,54,3
+17,127,"Drive Slow",272,5,18,3
+17,128,"Roses",246,5,45,3
+17,129,"Diamonds from Sierra Leone",433,5,51,3
+17,130,"Hey Mama",303,5,86,3
+17,131,"Celebration",198,5,34,3
+18,132,"Good Morning",195,5,67,3
+18,133,"Champion",168,5,83,3
+18,134,"Stronger",312,5,432,3
+18,135,"I Wonder",243,5,62,3
+18,136,"Good Life",207,5,223,3
+18,137,"Cant Tell Me Nothing",272,5,64,3
+18,138,"Barry Bonds",204,5,34,3
+18,139,"Flashing Lights",238,5,632,3
+18,140,"Everything I Am",228,5,34,3
+18,141,"The Glory",213,5,23,3
+18,142,"Homecoming",203,5,113,3
+18,143,"Big Brother",288,5,36,3
+18,144,"Good Night",186,5,38,3
+18,145,"Bittersweet Poetry",251,5,52,3
+19,146,"Say You Will",378,5,34,3
+19,147,"Welcome To Heartbreak",263,5,41,3
+19,148,"Heartless",211,5,121,3
+19,149,"Amazing",238,5,34,3
+19,150,"Love Lockdown",270,5,36,3
+19,151,"Paranoid",278,5,43,3
+19,152,"RoboCop",274,5,46,3
+19,153,"Street Lights",190,5,35,3
+19,154,"Bad News",239,5,196,3
+19,155,"See You In My Nightmares",258,5,67,3
+19,156,"Coldest Winter",164,5,45,3
+20,157,"Dark Fantasy",261,5,45,3
+20,158,"Gorgeous",358,5,54,3
+20,159,"POWER",292,5,104,3
+20,160,"All Of The Lights",300,5,168,3
+20,161,"Monster",379,5,103,3
+20,162,"So Appalled",378,5,30,3
+20,163,"Devil In A New Dress",352,5,34,3
+20,164,"Runaway",540,5,45,3
+20,165,"Hell Of A Life",328,5,34,3
+20,166,"Blame Game",470,5,30,3
+20,167,"Lost In The World",257,5,52,3
+20,168,"Who Will Survive In America",98,5,32,3
+21,169,"No Church In The Wild",273,5,28,3
+21,170,"Ni**as In Paris",219,5,163,3
+21,171,"Gotta Have It",141,5,24,3
+22,172,"Dont Like",288,5,137,3
+23,173,"On Sight",156,5,26,3
+23,174,"Black Skinhead",188,5,153,3
+23,175,"I Am a God",232,5,35,3
+23,176,"New Slaves",156,5,89,3
+23,177,"Im In It",235,5,34,3
+23,178,"Blood On the Leaves",360,5,79,3
+23,179,"Guilt Trip",244,5,35,3
+23,180,"Send It Up",178,5,24,3
+24,181,"Only One",282,5,153,3
+25,182,"All Day",311,5,62,3
+26,183,"Ultralight Beam",321,5,55,3
+26,184,"Father Stretch My Hands Pt. 1",136,5,265,3
+26,185,"Pt. 2",130,5,284,3
+26,186,"Famous",196,5,218,3
+26,187,"Feedback",147,5,43,3
+26,188,"Low Lights",132,5,29,3
+26,189,"Highlights",200,5,179,3
+26,190,"Freestyle 4",123,5,41,3
+26,191,"I Love Kanye",45,5,46,3
+26,192,"Waves",182,5,115,3
+26,193,"FML",238,5,70,3
+26,194,"Real Friends",252,5,112,3
+26,195,"Wolves",302,5,65,3
+26,196,"30 Hours",323,5,39,3
+26,197,"No More Parties in LA",374,5,37,3
+26,198,"Facts (Charlie Heat Version)",201,5,83,3
+26,199,"Fade",204,5,281,3
+26,200,"Saint Pablo",372,5,237,3
+27,201,"Lift Yourself",148,5,75,3
+28,202,"Yikes",189,5,65,3
+28,203,"All Mine",146,5,81,3
+28,204,"Wouldnt Leave",206,5,33,3
+28,205,"No Mistakes",123,5,30,3
+28,206,"Ghost Town",271,5,71,3
+28,207,"Violent Crimes",214,5,26,3
+29,208,"I Love It (with Lil Pump)",128,5,123,3
+30,209,"Follow God",105,5,60,3
+30,210,"Closed on Sunday",152,5,30,3
+30,211,"On God",136,5,144,3
+30,212,"Everything We Need",117,5,44,3
+30,213,"Water",118,5,6,3
+30,214,"God Is",203,5,21,3
+30,215,"Use This Gospel",214,5,3,3
+31,216,"Jail",297,5,86,3
+31,217,"God Breathed",333,5,58,3
+31,218,"Off The Grid",339,5,149,3
+31,219,"Hurricane",243,5,208,3
+31,220,"Praise God",227,5,160,3
+31,221,"Jonah",195,5,49,3
+31,222,"Ok Ok",205,5,128,3
+31,223,"Junya",148,5,73,3
+31,224,"Believe What I Say",242,5,262,3
+31,225,"24",198,5,56,3
+31,226,"Remote Control",199,5,120,3
+31,227,"Moon",156,5,154,3
+31,228,"Heaven and Hell",145,5,49,3
+31,229,"Donda",128,5,42,3
+31,230,"Keep My Spirit Alive",221,5,92,3
+31,231,"Jesus Lord",540,5,41,3
+31,232,"New Again",183,5,52,3
+31,233,"Tell The Vision",104,5,59,3
+31,234,"Lord I Need You",162,5,43,3
+31,235,"Pure Souls",359,5,60,3
+31,236,"Come to Life",310,5,70,3
+31,237,"No Child Left Behind",178,5,101,3
+31,238,"Life Of The Party (with Andre 3000)",392,5,51,3
+31,239,"Up From The Ashes",162,5,53,3
+32,240,"Hotter Than Hell",188,5,110,4
+32,241,"Blow Your Mind (Mwah)",179,5,104,4
+32,242,"New Rules",209,5,115,4
+33,243,"Future Nostalgia",185,5,54,4
+33,244,"Dont Start Now",183,5,304,4
+33,245,"Cool",210,5,59,4
+33,246,"Levitating",204,5,405,4
+33,247,"Hallucinate",219,5,214,4
+33,248,"Love Again",258,5,208,4
+33,249,"Break My Heart",222,5,149,4
+33,250,"Fever",157,5,249,4
+33,251,"Were Good",166,5,203,4
+34,252,"Love Is Religion",220,5,32,4
+35,253,"Dance The Night",157,5,45,4
+36,254,"Grenade",222,5,273,5
+36,255,"Just The Way You Are",221,5,203,5
+36,256,"Runaway Baby",148,5,89,5
+36,257,"Marry You",230,5,86,5
+36,258,"Talking To the Moon",218,5,101,5
+36,259,"Count On Me",197,5,110,5
+37,260,"Young Girls",230,5,163,5
+37,261,"Locked Out of Heaven",233,5,285,5
+37,262,"Gorilla",244,5,96,5
+37,263,"Treasure",179,5,384,5
+37,264,"Natalie",225,5,15,5
+38,265,"24K Magic",227,5,238,5
+38,266,"Chunky",187,5,85,5
+38,267,"Thats What I Like",207,5,104,5
+38,268,"Versace On The Floor",261,5,121,5
+38,269,"Finesse",191,5,179,5
+39,270,"Leave The Door Open",242,5,122,5
+39,271,"Smokin Out The Window",197,5,182,5
+39,272,"Skate",203,5,318,5
+40,273,"Bad Romance",295,5,274,6
+40,274,"Alejandro",275,5,189,6
+40,275,"Telephone (feat. Beyonce)",221,5,155,6
+40,276,"Just Dance",242,5,226,6
+40,277,"LoveGame",216,5,85,6
+40,278,"Paparazzi",208,5,197,6
+40,279,"Poker Face",237,5,296,6
+40,280,"Starstruck",217,5,79,6
+41,281,"Born This Way",260,5,36,6
+41,282,"Americano",249,5,67,6
+41,283,"Hair",308,5,43,6
+41,284,"The Queen",317,5,63,6
+41,285,"The Edge of Glory",322,5,101,6
+42,286,"G.U.Y",233,5,75,6
+42,287,"Do What U Want",227,5,83,6
+42,288,"Applause",212,5,287,6
+43,289,"A-YO",208,5,113,6
+43,290,"John Wayne",174,5,201,6
+43,291,"Perfect Illusion",182,5,16,6
+43,292,"Million Reasons",205,5,52,6
+43,293,"Come to Mama",255,5,79,6
+44,294,"Alice",178,5,72,6
+44,295,"Stupid Love",194,5,43,6
+44,296,"Rain on Me (with Ariana Grande)",182,5,47,6
+44,297,"Fun Tonight",173,5,26,6
+44,298,"911",172,5,46,6
+44,299,"Sour Candy (with BLACKPINK)",158,5,86,6
+44,300,"Enigma",180,5,82,6
+44,301,"Replay",187,5,73,6
+44,302,"Babylon",162,5,54,6
+45,303,"Fancy",319,5,124,7
+45,304,"Find Your Love",209,5,296,7
+46,305,"Headlines",236,5,284,7
+46,306,"Take Care (feat. Rihanna)",277,5,201,7
+46,307,"Make Me Proud (feat. Nicki Minaj)",220,5,68,7
+46,308,"The Motto",182,5,117,7
+47,309,"Started From the Bottom",174,5,138,7
+47,310,"Worst Behavior",271,5,89,7
+47,311,"Hold On, Were Going Home",231,5,173,7
+48,312,"Legend",242,5,43,7
+48,313,"Energy",182,5,64,7
+48,314,"10 Bands",178,5,28,7
+48,315,"Know Yourself",276,5,37,7
+48,316,"Used To (feat. Lil Wayne)",268,5,15,7
+48,317,"Company (feat. Travis Scott)",253,5,41,7
+48,318,"Jungle",320,5,104,7
+49,319,"Back To Back",171,5,36,7
+50,320,"Big Rings",218,5,43,7
+50,321,"Live From the Gutter",212,5,30,7
+50,322,"Plastic Bag",202,5,43,7
+50,323,"Jumpman",206,5,189,7
+51,324,"Feel No Ways",241,5,23,7
+51,325,"Controlla",245,5,86,7
+51,326,"One Dance",174,5,201,7
+51,327,"Childs Play",241,5,9,7
+51,328,"Pop Style",213,5,22,7
+51,329,"Hotline Bling",267,5,179,7
+52,330,"Passionfruit",299,5,386,7
+52,331,"Get It Together",250,5,186,7
+52,332,"Gyalchester",189,5,36,7
+52,333,"Skepta Interlude",143,5,103,7
+52,334,"Portland",237,5,23,7
+52,335,"Teenage Fever",220,5,23,7
+52,336,"KMT",223,5,20,7
+52,337,"Glow (feat. Kanye West)",206,5,75,7
+52,338,"Fake Love",211,5,87,7
+53,339,"Nonstop",239,5,123,7
+53,340,"Gods Plan",199,5,79,7
+53,341,"Nice For What",211,5,102,7
+53,342,"In My Feelings",218,5,85,7
+54,343,"Fair Trade (with Travis Scott)",291,5,32,7
+54,344,"Way 2 Sexy",258,5,43,7
+54,345,"N 2 Deep",274,5,38,7
+54,346,"Knife Talk",243,5,31,7
+55,347,"Massive",337,5,38,7
+55,348,"Jimmy Cooks (feat. 21 Savage)",218,5,32,7
+56,349,"Circo Loco",237,5,26,7
+57,350,"Gently (feat. Bad Bunny)",134,5,31,7
+58,351,"Party In The U.S.A.",202,5,126,8
+59,352,"We Cant Stop",231,5,185,8
+59,353,"4x4 (feat. Nelly)",192,5,163,8
+59,354,"Wrecking Ball",221,5,221,8
+59,355,"Love Money Party (feat. Big Sean)",220,5,102,8
+59,356,"FU (feat. French Montana)",231,5,195,8
+59,357,"Rooting For My Baby",200,5,86,8
+59,358,"On My Own",232,5,201,8
+60,359,"Younger Now",249,5,75,8
+60,360,"Week Without You",224,5,53,8
+61,361,"Slide Away",234,5,142,8
+62,362,"Angels Like You",196,5,115,8
+62,363,"Prisoner (feat. Dua Lipa)",169,5,84,8
+62,364,"Gimme What I Want",152,5,46,8
+62,365,"Night Crawling (feat. Billy Idol)",189,5,101,8
+62,366,"Midnight Sky",223,5,201,8
+62,367,"Never Be Me",216,5,103,8
+63,368,"Flowers",200,5,304,8
+63,369,"Jaded",186,5,142,8
+63,370,"Used To Be Young",191,5,23,8
+63,371,"Violet Chemistry",246,5,123,8
+63,372,"Island",240,5,84,8
+64,373,"Day N Nite (Nightmare)",221,5,132,9
+64,374,"Make Her Say",216,5,50,9
+64,375,"Pursuit of Happiness (Nightmare)",295,5,89,9
+64,376,"Hyyer",212,5,42,9
+65,377,"Mr. Rager",296,5,64,9
+65,378,"Ghost!",289,5,4,9
+66,379,"By Design",257,5,24,9
+66,380,"Dance 4 Eternity",283,5,10,9
+66,381,"Distant Fantasies",288,5,13,9
+66,382,"Wounds",244,5,9,9
+66,383,"Mature Nature",235,5,15,9
+66,384,"Kitchen",269,5,56,9
+66,385,"Cosmic Warrior",241,5,20,9
+66,386,"Surfin",375,5,87,9
+67,387,"Beautiful Trip",37,5,20,9
+67,388,"Tequila Shots",193,5,111,9
+67,389,"Another Day",200,5,34,9
+67,390,"She Knows This",217,5,36,9
+67,391,"Dive",149,5,40,9
+67,392,"Damaged",151,5,32,9
+67,393,"Heaven on Earth",201,5,46,9
+67,394,"Show Out (with Skepta & Pop Smoke)",175,5,163,9
+67,395,"Solo Dolo, Pt. III",242,5,45,9
+67,396,"Sad People",176,5,203,9
+67,397,"Elsies Baby Boy (Flashback)",220,5,13,9
+67,398,"Sept. 16",249,5,26,9
+67,399,"The Void",325,5,246,9
+67,400,"Lovin Me (feat. Phoebe Bridgers)",166,5,20,9
+67,401,"The Pale Moonlight",176,5,17,9
+67,402,"Rockstar Knights (feat. Trippie Redd)",231,5,38,9
+67,403,"4 da Kidz",184,5,19,9
+67,404,"Lord I Know",212,5,40,9
+68,405,"B**ch, Dont Kill My Vibe",311,5,64,10
+68,406,"Money Trees",393,5,87,10
+68,407,"Poetic Justice (feat. Drake)",300,5,75,10
+68,408,"Swimmming Pools",248,5,320,10
+69,409,"King Kunta",235,5,103,10
+69,410,"Alright",220,5,127,10
+69,411,"i",336,5,113,10
+70,412,"DNA.",186,5,68,10
+70,413,"ELEMENT.",210,5,36,10
+70,414,"LOYALTY. FEAT. RIHANNA.",227,5,42,10
+70,415,"HUMBLE.",177,5,158,10
+70,416,"LOVE. FEAT. ZACARI.",213,5,67,10
+71,417,"United In Grief",255,5,10,10
+71,418,"N95",196,5,27,10
+71,419,"Worldwide Steppers",203,5,6,10
+71,420,"Die Hard",239,5,85,10
+71,421,"Father Time (feat. Sampha)",222,5,8,10
+71,422,"Rich Spirit",202,5,15,10
+71,423,"Purple Hearts",329,5,13,10
+71,424,"Count Me Out",284,5,9,10
+71,425,"Silent Hill",221,5,18,10
+71,426,"Mr. Morale",211,5,32,10
+71,427,"Mirror",256,5,184,10
+72,428,"California Gurls (feat. Snoop Dogg)",235,5,173,11
+72,429,"The One That Got Away",227,5,140,11
+72,430,"Part of Me",216,5,108,11
+72,431,"Wide Awake",221,5,161,11
+72,432,"E.T. (feat. Kanye West)",230,5,323,11
+73,433,"Roar",224,5,203,11
+73,434,"Walking On Air",222,5,84,11
+73,435,"Unconditionally",229,5,102,11
+73,436,"This Is How We Do",204,5,249,11
+73,437,"Spiritual",276,5,58,11
+74,438,"Hey Hey Hey",215,5,73,11
+74,439,"Roulette",199,5,201,11
+74,440,"Swish Swish (feat. Nicki Minaj)",242,5,104,11
+74,441,"Bon Appetit (feat. Migos)",227,5,207,11
+75,442,"Smile",167,5,42,11
+75,443,"Harleys In Hawaii",185,5,259,11
+76,444,"Big Lie",208,5,10,12
+76,445,"Deja Vu (feat. Justin Bieber)",234,5,68,12
+76,446,"No Option",180,5,14,12
+76,447,"Cold",269,5,9,12
+76,448,"White Iversion",257,5,139,12
+76,449,"I Fall Apart",223,5,118,12
+76,450,"Go Flex",180,5,19,12
+76,451,"Congratulations (feat. Quavo)",220,5,144,12
+76,452,"Up There",195,5,10,12
+76,453,"Leave",325,5,14,12
+77,454,"Paranoid",222,5,17,12
+77,455,"rockstar (feat. 21 Savage)",218,5,84,12
+77,456,"Psycho (feat. Ty Dolla Sign)",321,5,32,12
+77,457,"Better Now",231,5,63,12
+77,458,"Ball For Me (feat. Nicki Minaj)",206,5,68,12
+77,459,"Candy Paint",228,5,106,12
+78,460,"Hollywoods Bleeding",156,5,17,12
+78,461,"Saint-Tropez",151,5,110,12
+78,462,"Enemies (feat. DaBaby)",197,5,7,12
+78,463,"Circles",215,5,94,12
+78,464,"Sunflower (feat. Swae Lee)",158,5,239,12
+78,465,"Internet",123,5,103,12
+78,466,"Goodbyes (feat. Young Thug)",175,5,73,12
+78,467,"Myself",158,5,24,12
+78,468,"I Know",141,5,21,12
+78,469,"Wow.",156,5,184,12
+79,470,"Dont Understand",183,5,21,12
+79,471,"Something Real",205,5,17,12
+79,472,"Chemical",183,5,304,12
+79,473,"Novancandy",197,5,27,12
+79,474,"Mourning",148,5,48,12
+79,475,"Too Cool To Die",205,5,18,12
+79,476,"Sign Me Up",199,5,20,12
+79,477,"Socialite",199,5,25,12
+79,478,"Overdrive",148,5,106,12
+79,479,"Speedometer",162,5,84,12
+79,480,"Hold My Breath",209,5,18,12
+79,481,"Enough Is Enough",165,5,18,12
+79,482,"Texas Tea",199,5,41,12
+79,483,"Buyer Beware",173,5,16,12
+79,484,"Landmine",185,5,15,12
+79,485,"Green Thumb",219,5,15,12
+79,486,"Laugh It Off",247,5,13,12
+80,487,"Somewhere I Belong",213,5,129,13
+80,488,"Lying From You",175,5,48,13
+80,489,"Hit The Floor",164,5,32,13
+80,490,"Faint",162,5,133,13
+80,491,"Figure.09",197,5,21,13
+80,492,"Breaking The Habit",196,5,49,13
+80,493,"From The Inside",173,5,63,13
+80,494,"Numb",185,5,204,13
+81,495,"Given Up",189,5,62,13
+81,496,"Leave Out All The Rest",229,5,52,13
+81,497,"Bleed It Out",164,5,101,13
+81,498,"Shadow of The Day",290,5,52,13
+81,499,"What Ive Done",205,5,184,13
+81,500,"No More Sorrow",221,5,38,13
+82,501,"In My Remains",200,5,72,13
+82,502,"Burn It Down",230,5,49,13
+82,503,"Ill Be Gone",211,5,38,13
+82,504,"Castle of Glass",205,5,41,13
+83,505,"3500 (feat. Future & 2 Chainz)",462,5,32,14
+83,506,"90210 (feat. Kacy Hill)",339,5,132,14
+83,507,"Pray 4 Love (feat. The Weeknd)",307,5,38,14
+83,508,"Antidote",263,5,102,14
+83,509,"Impossible",243,5,20,14
+83,510,"Flying High (feat. Toro y Moi)",209,5,204,14
+83,511,"I Can Tell",236,5,34,14
+83,512,"Apple Pie",219,5,62,14
+83,513,"Ok Alright (feat. ScHoolboy Q)",418,5,23,14
+83,514,"Never Catch Me",178,5,29,14
+84,515,"the ends",201,5,31,14
+84,516,"way back",273,5,35,14
+84,517,"coordinate",226,5,117,14
+84,518,"through the late night",266,5,68,14
+84,519,"biebs in the trap",214,5,168,14
+84,520,"sweet sweet",222,5,23,14
+84,521,"outside",176,5,35,14
+84,522,"goosebumps",244,5,103,14
+84,523,"first take",314,5,51,14
+84,524,"lose",200,5,82,14
+84,525,"guidance",207,5,24,14
+84,526,"wonderful",217,5,65,14
+85,527,"STARGAZING",271,5,52,14
+85,528,"CAROUSEL",180,5,46,14
+85,529,"SICKO MODE",313,5,186,14
+85,530,"R.I.P. SCREW",186,5,31,14
+85,531,"STOP TRYING TO BE GOD",338,5,27,14
+85,532,"NO BYSTANDERS",218,5,41,14
+85,533,"SKELETONS",146,5,108,14
+85,534,"WAKE UP",232,5,29,14
+85,535,"5% TINT",196,5,44,14
+85,536,"NC-17",157,5,42,14
+85,537,"ASTROTHUNDER",143,5,33,14
+85,538,"YOSEMITE",150,5,71,14
+85,539,"CANT SAY",198,5,36,14
+85,540,"WHO? WHAT!",177,5,36,14
+85,541,"BUTTERFLY EFFECT",191,5,56,14
+85,542,"COFFEE BEAN",209,5,33,14
+86,543,"HYAENA",222,5,21,14
+86,544,"THANK GOD",185,5,21,14
+86,545,"MODERN JAM",255,5,23,14
+86,546,"MY EYES",251,5,20,14
+86,547,"GODS COUNTRY",128,5,15,14
+86,548,"SIRENS",204,5,18,14
+86,549,"MELTDOWN (feat. Drake)",246,5,40,14
+86,550,"FE!N (feat. Playboi Carti)",192,5,74,14
+86,551,"DELRESTO (ECHOES) (feat. Beyonce)",274,5,22,14
+86,552,"I KNOW ?",212,5,35,14
+86,553,"CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",259,5,22,14
+86,554,"PARASAIL",155,5,16,14
+86,555,"SKITZO",307,5,15,14
+86,556,"LOST FOREVER",163,5,31,14
+86,557,"LOOOVE (feat. Kid Cudi)",227,5,33,14
+86,558,"K-POP (feat. Bad Bunny & The Weeknd)",185,5,36,14
+86,559,"TELEKINESIS (feat. SZA & Future)",294,5,18,14
+86,560,"TILL FURTHER NOTICE",315,5,27,14
+87,561,"Smile",196,5,101,15
+87,562,"LDN",191,5,195,15
+88,563,"The Fear",207,5,522,15
+88,564,"Not Fair",201,5,96,15
+88,565,"22",186,5,105,15
+88,566,"Chinese",308,5,43,15
+89,567,"Air Balloon",228,5,211,15
+89,568,"Our Time",259,5,26,15
+89,569,"Silver Spoon",218,5,327,15
+89,570,"Hard Out There",211,5,238,15
+89,571,"Holding On To Nothing",179,5,28,15
+90,572,"In My Place",226,5,26,16
+90,573,"The Scientist",309,5,142,16
+90,574,"Clocks",307,5,286,16
+90,575,"Green Eeyes",223,5,31,16
+91,576,"Magic",285,5,13,16
+91,577,"Ink",228,5,20,16
+91,578,"Midnight",294,5,28,16
+91,579,"A Sky Full of Stars",267,5,143,16
+92,580,"Hands to Myself",201,5,103,17
+92,581,"Same Old Love",229,5,138,17
+92,582,"Good For You",221,5,203,17
+92,583,"Me & the Rhythm",213,5,273,17
+92,584,"Survivors",222,5,78,17
+92,585,"Me & My Girls",211,5,53,17
+92,586,"Nobody",218,5,60,17
+92,587,"Perfect",243,5,56,17
+93,588,"Rare",221,5,73,17
+93,589,"Look At Her Now",163,5,122,17
+93,590,"Dance Again",170,5,84,17
+93,591,"Ring",149,5,70,17
+93,592,"Cut You Off",182,5,73,17
+93,593,"Let Me Get Me",189,5,75,17
+93,594,"Kinda Crazy",212,5,42,17
+93,595,"Feel Me",226,5,203,17
+94,596,"Blame It on the Boogie",210,5,201,18
+94,597,"Dont Stop Til You Get Enough",351,5,162,18
+94,598,"The Girl Is Mine (with Paul McCartney)",221,5,82,18
+94,599,"Billie Jean",292,5,183,18
+94,600,"Beat It",258,5,152,18
+94,601,"Wanna Be Startin Somethin",257,5,116,18
+94,602,"P.Y.T. (Pretty Young Thing)",238,5,142,18
+94,603,"Thriller",312,5,221,18
+94,604,"Bad",247,5,186,18
+94,605,"The Way You Make Me Feel",266,5,108,18
+94,606,"Main the Mirror",318,5,77,18
+94,607,"Smooth Criminal",257,5,92,18
+94,608,"Black or White",202,5,99,18
+95,609,"Come Back to Earth",162,5,10,19
+95,610,"Hurt Feelings",246,5,12,19
+95,611,"Perfecto",215,5,83,19
+95,612,"Self Care",345,5,46,19
+95,613,"Wings",250,5,49,19
+95,614,"Ladders",287,5,32,19
+95,615,"Small Worlds",272,5,16,19
+95,616,"Jet Fuel",345,5,62,19
+95,617,"2009",348,5,17,19
+96,618,"Circles",170,5,63,19
+96,619,"Complicated",232,5,24,19
+96,620,"Blue World",209,5,15,19
+96,621,"Good News",342,5,34,19
+96,622,"I Can See",221,5,13,19
+96,623,"Everybody",257,5,16,19
+96,624,"Woods",286,5,31,19
+96,625,"Hands",200,5,103,19
+96,626,"Surf",331,5,183,19
+96,627,"Floating",154,5,11,19
+97,628,"Amarillo",158,5,38,20
+97,629,"Azul",206,5,15,20
+97,630,"Rojo",151,5,42,20
+97,631,"Morado",200,5,35,20
+97,632,"Gris",177,5,21,20
+97,633,"Blanco",145,5,132,20
+98,634,"F40",161,5,31,20
+98,635,"Ego",136,5,11,20
+98,636,"Tu Veneno",157,5,9,20
+98,637,"In Da Getto",131,5,84,20
+98,638,"UN DIA (ONE DAY) (feat. Dua Lipa & Bad Bunny)",232,5,321,20
+99,639,"Nice To Meet Ya",159,5,63,21
+100,640,"Heaven",186,5,168,21
+100,641,"If You Leave Me",179,5,22,21
+100,642,"Meltdown",153,5,28,21
+100,643,"Never Grow Up",209,5,72,21
+100,644,"The Show",291,5,20,21
+100,645,"You Could Start A Cult",200,5,17,21
+100,646,"Save My Life",177,5,17,21
+100,647,"On A Night Like Tonight",188,5,105,21
+100,648,"Science",165,5,16,21
+100,649,"Must Be Love",190,5,64,21
+101,650,"Stranger To Love - Tiesto Remix",181,5,273,22
+102,651,"Party Rock Anthem",262,5,301,23
+102,652,"Sexy and I Know It",199,5,415,23
+103,653,"Happy",232,5,126,24
+103,654,"Come Get It Bae (feat. Miley Cyrus)",201,5,136,24
+103,655,"Gust of Wind",285,5,88,24
+104,656,"Never Gonna Give You Up",213,5,312,25
+104,657,"When I Fall in Love",183,5,66,25
+105,658,"Let Me Love You",249,5,395,26
+106,659,"There Goes My Baby",281,5,42,27
+106,660,"DJ Got Us Fallin In Love (feat. Pitbull)",221,5,173,27
+106,661,"More - RedOne Jimmy Joker Remix",220,5,102,27
+107,662,"Red Light",213,5,72,28
+107,663,"MILK",217,5,52,28
+107,664,"Butterfly",177,5,44,28
+108,665,"4 Walls",207,5,227,28
+108,666,"Diamond",239,5,32,28
+108,667,"Cash Me Out",202,5,27,28
+108,668,"When Im Alone",204,5,151,28
+109,669,"Still Alive",199,5,27,29
+109,670,"Monster",231,5,54,29
+109,671,"Feeling",215,5,30,29
+109,672,"Fantastic Baby",233,5,132,29
+109,673,"Bad Boy",239,5,120,29
+109,674,"Blue",235,5,35,29
+109,675,"Ego",205,5,100,29
+110,676,"LOSER",219,5,32,29
+110,677,"BAE BAE",169,5,26,29
+110,678,"BANG BANG BANG",220,5,105,29
+111,679,"Roly-Poly",214,5,169,30
+112,680,"Sexy Love",226,5,122,30
+112,681,"Day By Day",209,5,87,30
+113,682,"When Love Takes Over (feat. Kelly Rowland)",191,5,67,31
+113,683,"Sexy B**ch (feat. Akon)",196,5,104,31
+113,684,"Memories (feat. Kid Cudi)",211,5,240,31
+113,685,"Whos That Chick?",201,5,110,31
+113,686,"Gettin Over You (feat. Fergie & LMFAO)",188,5,51,31
+114,687,"Titanium (feat. Sia)",245,5,41,31
+114,688,"Turn Me On (feat. Nicki Minaj)",199,5,62,31
+114,689,"She Wolf (Falling to Pieces) [feat. Sia]",222,5,102,31
+114,690,"Without You (feat. Usher)",208,5,31,31
+114,691,"Where Them Girls At (feat. Nicki Minaj & Flo Rida)",194,5,82,31
+115,692,"Say My Name (feat. Bebe Rexha & J Balvin)",245,5,109,31
