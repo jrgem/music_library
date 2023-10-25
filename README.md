@@ -3,10 +3,10 @@ Music library project analyzing personal music listening data gathered from iTun
 
 - - - -
 ### Timeline
-- Gathered relevant music data from personal iTunes library.
-- Manually created a database with gathered statistics utilizing SQL (PostgreSQL and pgAdmin4).
+- Gathered relevant music data from personal **iTunes** library.
+- Manually created a database with gathered statistics utilizing **SQL** (**PostgreSQL** and **pgAdmin4**).
 - Continued using SQL to query insights for music database analysis and questions.
-- Created a meaningful and interactive [visualization dashboard](https://public.tableau.com/views/HistoricalMusicalTaste/Story1?:language=en-US&:display_count=n&:origin=viz_share_link/ "Visualization Dashboard") using Tableau.
+- Created a meaningful and interactive [visualization dashboard](https://public.tableau.com/views/HistoricalMusicalTaste/Story1?:language=en-US&:display_count=n&:origin=viz_share_link/ "Visualization Dashboard") using **Tableau**.
 
 - - - -
 ### Entity-Relationship Model & Data Set
