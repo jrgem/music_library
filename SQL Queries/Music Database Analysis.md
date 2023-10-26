@@ -1,4 +1,5 @@
 # Music Database Analysis
+Created set of questions based off my personal music library for SQL analysis. More questions will be added over time.
 
 ## Question Solutions
 
