@@ -14,8 +14,6 @@ Music library project analyzing personal music listening data gathered from iTun
 
 - SQL Database Table Queries: [Table 1 - Artist](https://github.com/jrgem/music_library/blob/main/SQL%20Queries/creating_artist_table.sql/ "Table 1: Artist") | [Table 2 - Album](https://github.com/jrgem/music_library/blob/main/SQL%20Queries/creating_album_table.sql/ "Table 2: Album") | [Table 3 - Song](https://github.com/jrgem/music_library/blob/main/SQL%20Queries/creating_song_table.sql/ "Table 3: Song")
 
-https://github.com/jrgem/music_library/blob/main/SQL%20Queries/creating_artist_table.sql
-
 - - - -
 ### Music Library Insights
 - Top 30 most played albums and songs based on individual song count.
