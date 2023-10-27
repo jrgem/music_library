@@ -1,4 +1,4 @@
-# music_library
+# SQL Music Library Database
 Music library project analyzing personal music listening data gathered from iTunes using SQL and Tableau.
 
 - - - -
